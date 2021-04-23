@@ -10,7 +10,7 @@ function ExpenseItem(props)
   /*const clickHandler =() =>{
     SetTitle('Updated');
     console.log("Clicked");
-  };*/
+  };*/ 
   return(
     <li>
     <Card className="expense-item">
